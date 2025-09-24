@@ -1,5 +1,4 @@
-# نبيل محمد أمين | Nabil Mohamed Amine
-
+<h1 align="center"> نبيل محمد أمين | Nabil Mohamed Amine</h1>
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;IT+Technician;Laravel+%26+React+Specialist;Passionate+About+Clean+Code)](https://git.io/typing-svg)
