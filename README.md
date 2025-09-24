@@ -17,34 +17,6 @@ Skilled at blending frontend creativity with backend robustness to deliver maint
 
 ---
 
-## 🚀 Areas of Expertise
-
-### 🔹 Backend Development
-- **PHP (Laravel Framework)** – MVC pattern, RESTful API design  
-- **Node.js** – Express.js, API development  
-- **ASP.NET (C#)**  
-- **Java** – Enterprise solutions  
-- **WordPress** – Custom theme and plugin development, CMS administration  
-
-### 🔹 Frontend Development
-- **React.js** – Functional components, Hooks, Context API  
-- **JavaScript (ES6+)**, **jQuery**  
-- **HTML5**, **CSS3**, **SASS**  
-- **Tailwind CSS**, **Bootstrap**
-
-### 🔹 Database & Performance
-- **MySQL** – Schema design, query optimization  
-- **MongoDB** – NoSQL document database  
-- Data indexing and performance tuning  
-
-### 🔹 DevOps & Tools
-- **Git**, **GitHub** version control  
-- **Postman** for API testing  
-- **SonarQube** for code quality assurance  
-- Agile and Scrum development methodologies  
-
----
-
 ## 🛠 Technology Stack
 
 <div align="center">
@@ -86,6 +58,34 @@ Skilled at blending frontend creativity with backend robustness to deliver maint
 </p>
 
 </div>
+
+---
+
+## 🚀 Areas of Expertise
+
+### 🔹 Backend Development
+- **PHP (Laravel Framework)** – MVC pattern, RESTful API design  
+- **Node.js** – Express.js, API development  
+- **ASP.NET (C#)**  
+- **Java** – Enterprise solutions  
+- **WordPress** – Custom theme and plugin development, CMS administration  
+
+### 🔹 Frontend Development
+- **React.js** – Functional components, Hooks, Context API  
+- **JavaScript (ES6+)**, **jQuery**  
+- **HTML5**, **CSS3**, **SASS**  
+- **Tailwind CSS**, **Bootstrap**
+
+### 🔹 Database & Performance
+- **MySQL** – Schema design, query optimization  
+- **MongoDB** – NoSQL document database  
+- Data indexing and performance tuning  
+
+### 🔹 DevOps & Tools
+- **Git**, **GitHub** version control  
+- **Postman** for API testing  
+- **SonarQube** for code quality assurance  
+- Agile and Scrum development methodologies  
 
 ---
 
