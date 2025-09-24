@@ -1,4 +1,4 @@
-## Hey 👋, Je suis Mohamed Amine !
+Nabil Mohamed Amine | 
 
 👨‍💻 Développeur Web Full Stack basé au **Maroc**, passionné par les technologies web modernes.  
 Je travaille principalement avec **Laravel** et j’aime créer des applications performantes, intuitives et bien conçues.
@@ -22,7 +22,7 @@ Je travaille principalement avec **Laravel** et j’aime créer des applications
 ### 🛠️ Stack & Outils
 
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="42px"/></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" height="42px"/></a>
+<a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1154px-Laravel.svg.png" alt="Laravel" height="42px"/></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="42px"/></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" height="42px"/></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="42px"/></a>
