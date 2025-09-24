@@ -1,5 +1,5 @@
 <h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 36px;">
-  <span style="color: #003366; font-weight: bold;">Nabil Mohamed Amine</span> | نبيل محمد أمين 
+  <span style="color: #003366; font-weight: bold;">Nabil Mohamed Amine</span> 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Waving hand">
 </h1>
 
