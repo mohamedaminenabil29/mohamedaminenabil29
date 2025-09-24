@@ -1,101 +1,91 @@
-<h1 align="center"> نبيل محمد أمين | Nabil Mohamed Amine</h1>
+<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 36px;">
+  <span style="color: #003366; font-weight: bold;">Nabil Mohamed Amine</span> | نبيل محمد أمين 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Waving hand">
+</h1>
+
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;IT+Technician;Laravel+%26+React+Specialist;Passionate+About+Clean+Code)](https://git.io/typing-svg)
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&size=22&duration=3000&pause=1000&color=002B5B&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;IT+Technician+%7C+Support+Expert;Laravel+%2B+React+Specialist;WordPress+Expert;Clean+Architecture+Advocate;Open+Source+Contributor" alt="Typing SVG">
+  </a>
 </div>
 
-## 🎯 Profile Overview
+## 🎯 Profile Summary
 
-**Full Stack Web Developer** and **IT Technician** based in **Morocco** 🇲🇦, specialized in creating robust, scalable, and user-centric web applications. With expertise spanning both frontend and backend technologies, I deliver comprehensive digital solutions that drive business growth and enhance user experiences.
-
-<img align="right" alt="Coding GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-
-### 🚀 Core Expertise
-
-**Backend Development:**
-- **PHP** with **Laravel Framework** (Advanced)
-- **Node.js** ecosystem and RESTful APIs
-- **ASP.NET** with **C#** development
-- **Java** enterprise applications
-
-**Frontend Development:**
-- **React.js** with modern hooks and state management
-- **JavaScript ES6+** and **jQuery** for dynamic interfaces
-- **HTML5** & **CSS3** with responsive design principles
-- **Bootstrap** and **Tailwind CSS** for rapid UI development
-
-**Database Management:**
-- **MySQL** relational database design and optimization
-- **MongoDB** for NoSQL document-based applications
-- Database performance tuning and query optimization
-
-**Development Tools & Practices:**
-- **Git** version control and **GitHub** collaboration
-- **SonarQube** for code quality assurance
-- **Postman** for API testing and documentation
-- Agile development methodologies
+👨‍💻 **Full Stack Web Developer** and <span style="color: #d35400; font-weight: bold;">IT Technician</span> located in **Morocco** 🇲🇦  
+Experienced in designing and developing scalable, user-centric web applications using modern technologies.  
+Skilled at blending frontend creativity with backend robustness to deliver maintainable, high-performance software.
 
 ---
 
-## 🛠️ Technology Stack
+## 🚀 Areas of Expertise
 
-<div align="center">
+### 🔹 Backend Development
+- **PHP (Laravel Framework)** – MVC pattern, RESTful API design  
+- **Node.js** – Express.js, API development  
+- **ASP.NET (C#)**  
+- **Java** – Enterprise solutions  
+- **WordPress** – Custom theme and plugin development, CMS administration  
 
-### Frontend Technologies
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1280px-Tailwind_CSS_Logo.svg.png" alt="Tailwind CSS" height="45"/>
-</p>
+### 🔹 Frontend Development
+- **React.js** – Functional components, Hooks, Context API  
+- **JavaScript (ES6+)**, **jQuery**  
+- **HTML5**, **CSS3**, **SASS**  
+- **Tailwind CSS**, **Bootstrap**
 
-### Backend Technologies
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1154px-Laravel.svg.png" alt="Laravel" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="ASP.NET" height="45"/>
-</p>
+### 🔹 Database & Performance
+- **MySQL** – Schema design, query optimization  
+- **MongoDB** – NoSQL document database  
+- Data indexing and performance tuning  
 
-### Databases & Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg" alt="SonarQube" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" height="45"/>
-</p>
-
-</div>
+### 🔹 DevOps & Tools
+- **Git**, **GitHub** version control  
+- **Postman** for API testing  
+- **SonarQube** for code quality assurance  
+- Agile and Scrum development methodologies  
 
 ---
 
-## 📈 Professional Services
+## 🛠 Technology Stack
 
-### 🎨 **Frontend Development**
-- Responsive web design and mobile-first approach
-- Modern JavaScript frameworks and libraries
-- Cross-browser compatibility and performance optimization
-- UI/UX implementation with attention to detail
+<div align="center">
 
-### ⚙️ **Backend Development**
-- RESTful API design and implementation
-- Database architecture and optimization
-- Server-side logic and business rule implementation
-- Security best practices and authentication systems
+### 🌐 Frontend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" height="40"/>
+</p>
 
-### 🔧 **IT Technical Support**
-- System administration and maintenance
-- Hardware troubleshooting and repair
-- Network configuration and security
-- Software installation and configuration
+### ⚙️ Backend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="ASP.NET" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress" height="40"/>
+</p>
+
+### 🗃️ Databases & Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="40"/>
+</p>
+
+### 🛠 DevOps Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" alt="SonarQube" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" height="40"/>
+</p>
+
+</div>
 
 ---
 
@@ -103,78 +93,36 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ton-github&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedaminenabil29&show_icons=true&theme=vue-dark&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ton-github&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ton-github&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaminenabil29&layout=compact&theme=vue-dark&hide_border=true)
 
 </div>
 
 ---
 
-## 🚀 Current Projects & Initiatives
+## 🤝 Collaboration & Contact
 
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Technology Stack</th>
-    <th>Description</th>
-    <th>Status</th>
-  </tr>
-  <tr>
-    <td>🏢 <strong>Enterprise ERP System</strong></td>
-    <td>Laravel, React, MySQL</td>
-    <td>Comprehensive business management solution with CRM, inventory, and financial modules</td>
-    <td>🟢 Active Development</td>
-  </tr>
-  <tr>
-    <td>🛒 <strong>E-commerce Platform</strong></td>
-    <td>Node.js, React, MongoDB</td>
-    <td>Full-featured online marketplace with advanced search and payment integration</td>
-    <td>🟡 Planning Phase</td>
-  </tr>
-  <tr>
-    <td>💼 <strong>Professional Portfolio</strong></td>
-    <td>Laravel, Inertia.js, Tailwind</td>
-    <td>Personal brand website showcasing projects and technical expertise</td>
-    <td>🟢 In Progress</td>
-  </tr>
-</table>
+I am open to:
 
----
+- Freelance development projects  
+- Technical audits and consulting  
+- Contributing to open source projects  
+- Mentoring and community engagement  
 
-## 🤝 Professional Collaboration
-
-I am actively seeking opportunities for:
-
-- **Freelance Projects**: Custom web application development
-- **Technical Consulting**: Architecture design and code review
-- **Open Source Contributions**: Community-driven development initiatives
-- **Mentorship**: Sharing knowledge with aspiring developers
-
-### 📫 Get In Touch
+### 📫 Get in touch
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ton-github)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedaminenabil29)
 
 </div>
 
----
 
 <div align="center">
-
-### 💡 Professional Philosophy
-
-*"Quality code is not just about solving problems—it's about creating sustainable, maintainable solutions that stand the test of time and scale with business needs."*
-
-**– Nabil Mohamed Amine**
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=ton-github&color=brightgreen&style=flat-square)
+  
+![Profile Views](https://komarev.com/ghpvc/?username=mohamedaminenabil29&color=brightgreen&style=flat-square)
 
 </div>
