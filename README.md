@@ -11,9 +11,9 @@
 
 ## 🎯 Profile Summary
 
-👨‍💻 **Full Stack Web Developer** and <span style="color: #d35400; font-weight: bold;">IT Technician</span> located in **Morocco** 🇲🇦  
-Experienced in designing and developing scalable, user-centric web applications using modern technologies.  
-Skilled at blending frontend creativity with backend robustness to deliver maintainable, high-performance software.
+👨‍💻 **Hello, My name is Nabil Mohamed Amine**. I’m a Moroccan full stack web developer passionate about programming and deeply engaged in this fast-evolving field. My journey revolves around continuously exploring both front-end and back-end technologies with the goal of crafting innovative and engaging web experiences.  
+Driven by a love for problem-solving and building effective solutions, I stay constantly updated with the latest industry trends and best practices.
+
 
 ---
 
