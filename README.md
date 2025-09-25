@@ -9,6 +9,8 @@
   </a>
 </div>
 
+---
+
 ## 🎯 Profile Summary
 
 👨‍💻 **Hello, My name is Nabil Mohamed Amine**. I’m a Moroccan full stack web developer passionate about programming and deeply engaged in this fast-evolving field. My journey revolves around continuously exploring both front-end and back-end technologies with the goal of crafting innovative and engaging web experiences.  
