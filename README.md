@@ -1,12 +1,34 @@
 <h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 36px;">
-  <span style="color: #003366; font-weight: bold;">Nabil Mohamed Amine</span> 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Waving hand">
+  <span style="color: #003366; font-weight: bold;">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Waving hand">, I'm Nabil Mohamed Amine</span> 
+  
 </h1>
 
+<path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&size=22&duration=3000&pause=1000&color=002B5B&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;IT+Technician+%7C+Support+Expert;Laravel+%2B+React+Specialist;WordPress+Expert;Clean+Architecture+Advocate;Open+Source+Contributor" alt="Typing SVG">
-  </a>
+    <a href="https://github.com/OmarrSakr/OmarrSakr/stargazers">
+        <img src="https://img.shields.io/github/stars/OmarrSakr/OmarrSakr" alt="Stars Badge"/></a>
+    <a href="https://github.com/OmarrSakr/OmarrSakr/network/members">
+        <img src="https://img.shields.io/github/forks/OmarrSakr/OmarrSakr" alt="Forks Badge"/></a>
+  <a href="https://github.com/OmarrSakr/OmarrSakr/pulls">
+        <img src="https://img.shields.io/github/issues-pr/OmarrSakr/OmarrSakr?color=orange" alt="Pull Requests Badge"/></a>
+<!--     <a href="https://github.com/OmarrSakr/OmarrSakr/issues">
+        <img src="https://img.shields.io/github/issues/OmarrSakr/OmarrSakr?color=orange" alt="Issues Badge"/></a> -->
+    <a href="https://github.com/OmarrSakr/OmarrSakr/graphs/contributors">
+        <img src="https://img.shields.io/github/contributors/OmarrSakr/OmarrSakr?color=2b9348" alt="GitHub contributors"/></a>
+
+
+<a target="_blank" rel="noopener noreferrer nofollow" 
+        href="https://komarev.com/ghpvc/?username=OmarrSakr&label=Profile%20views&color=0e75b6&style=flat">
+        <img src="https://komarev.com/ghpvc/?username=OmarrSakr&label=Profile%20views&color=0e75b6&style=flat" 
+            alt="OmarrSakr" 
+            data-canonical-src="https://komarev.com/ghpvc/?username=OmarrSakr&label=Profile%20views&color=0e75b6&style=flat" 
+            style="max-width: 100%; margin-right: 10px;"></a>
+    <a target="_blank" rel="noopener noreferrer nofollow" 
+        href="https://img.shields.io/github/followers/OmarrSakr?label=Followers">
+        <img src="https://img.shields.io/github/followers/OmarrSakr?label=Followers" 
+            alt="OmarrSakr" 
+            data-canonical-src="https://img.shields.io/github/followers/OmarrSakr?label=Followers" 
+            style="max-width: 100%;"></a>
 </div>
 
 ---
@@ -15,7 +37,6 @@
 
 👨‍💻 **Hello, My name is Nabil Mohamed Amine**. I’m a Moroccan full stack web developer passionate about programming and deeply engaged in this fast-evolving field. My journey revolves around continuously exploring both front-end and back-end technologies with the goal of crafting innovative and engaging web experiences.  
 Driven by a love for problem-solving and building effective solutions, I stay constantly updated with the latest industry trends and best practices.
-
 
 ---
 
@@ -103,28 +124,12 @@ Driven by a love for problem-solving and building effective solutions, I stay co
 
 ---
 
-## 🤝 Collaboration & Contact
-
-I am open to:
-
-- Freelance development projects  
-- Technical audits and consulting  
-- Contributing to open source projects  
-- Mentoring and community engagement  
-
-### 📫 Get in touch
+## 📫 Connect with me
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedaminenabil29@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-amine-nabil-012987386/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedaminenabil29)
-
-</div>
-
-
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=mohamedaminenabil29&color=brightgreen&style=flat-square)
 
 </div>
