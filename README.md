@@ -116,13 +116,6 @@ Driven by a love for problem-solving and building effective solutions, I stay co
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedaminenabil29&show_icons=true&theme=vue-dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaminenabil29&layout=compact&theme=vue-dark&hide_border=true)
-
-</div>
 
 ---
 
