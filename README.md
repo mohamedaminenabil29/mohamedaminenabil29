@@ -114,26 +114,6 @@ Driven by a love for problem-solving and building effective solutions, I stay co
 
 ---
 
-## 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedaminenabil29&show_icons=true&theme=github_dark&count_private=true)
-
----
-
-### 🔹 Langages les plus utilisés
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaminenabil29&layout=compact&theme=github_dark)
-
----
-
-### 🔹 Activité GitHub (Streak)
-![GitHub Streak](https://streak-stats.demolab.com?user=mohamedaminenabil29&theme=github-dark)
-
----
-
-### 🔹 Graphique des contributions
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=github-dark)
----
-
 ## 📫 Connect with me
 
 <div align="center">
