@@ -1,114 +1,77 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003366,100:0077B5&height=200&section=header&text=Nabil%20Mohamed%20Amine&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<!-- Header dynamically matching your stack colors -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:4f46e5&height=220&section=header&text=Nabil%20Mohamed%20Amine&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20Laravel%20%26%20Inertia.js&descAlignY=58&descSize=18&descColor=e2e8f0" width="100%"/>
 
 <br/>
 
-<a href="https://github.com/mohamedaminenabil29/mohamedaminenabil29/stargazers">
-  <img src="https://img.shields.io/github/stars/mohamedaminenabil29/mohamedaminenabil29?style=for-the-badge&color=003366&labelColor=000000" alt="Stars Badge"/>
-</a>
-<a href="https://github.com/mohamedaminenabil29/mohamedaminenabil29/network/members">
-  <img src="https://img.shields.io/github/forks/mohamedaminenabil29/mohamedaminenabil29?style=for-the-badge&color=0077B5&labelColor=000000" alt="Forks Badge"/>
-</a>
-<a href="https://github.com/mohamedaminenabil29/mohamedaminenabil29/pulls">
-  <img src="https://img.shields.io/github/issues-pr/mohamedaminenabil29/mohamedaminenabil29?style=for-the-badge&color=ff7f50&labelColor=000000" alt="Pull Requests Badge"/>
-</a>
-<a href="https://github.com/mohamedaminenabil29/mohamedaminenabil29/graphs/contributors">
-  <img src="https://img.shields.io/github/contributors/mohamedaminenabil29/mohamedaminenabil29?style=for-the-badge&color=2b9348&labelColor=000000" alt="Contributors Badge"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=mohamedaminenabil29&label=Profile%20Views&color=003366&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/mohamedaminenabil29?label=Followers&style=for-the-badge&color=0077B5&labelColor=000000" alt="Followers Badge"/>
+<!-- Badges de Statistiques épurés -->
+[![Stars](https://img.shields.io/github/stars/mohamedaminenabil29/mohamedaminenabil29?style=flat-square&color=4f46e5&labelColor=1e293b)](https://github.com/mohamedaminenabil29/mohamedaminenabil29/stargazers)
+[![Forks](https://img.shields.io/github/forks/mohamedaminenabil29/mohamedaminenabil29?style=flat-square&color=06b6d4&labelColor=1e293b)](https://github.com/mohamedaminenabil29/mohamedaminenabil29/network/members)
+[![Issues](https://img.shields.io/github/issues-pr/mohamedaminenabil29/mohamedaminenabil29?style=flat-square&color=f59e0b&labelColor=1e293b)](https://github.com/mohamedaminenabil29/mohamedaminenabil29/pulls)
+[![Views](https://komarev.com/ghpvc/?username=mohamedaminenabil29&label=Profile%20Views&color=10b981&style=flat-square&labelColor=1e293b)](https://github.com/mohamedaminenabil29)
 
 </div>
 
-<br/>
+---
 
-## About Me
+## 🚀 À Propos De Moi
 
-I'm a Moroccan **Full Stack Web Developer** passionate about building clean, efficient, and scalable web applications. I enjoy working across the entire stack — from crafting responsive, intuitive interfaces to designing robust APIs and databases.
+Développeur **Full Stack** basé au Maroc 🇲🇦, je suis spécialisé dans la conception d'applications web performantes, robustes et scalables. Mon expertise principale réside dans l'écosystème **Laravel**, combiné à la puissance de **React** et **Inertia.js** pour créer des expériences utilisateur monolithiques modernes et fluides (SPA sans API complexe).
 
-I'm constantly learning new technologies and best practices, with a strong focus on writing maintainable code and solving real-world problems through software.
+Passionné par le Clean Code, l'optimisation des performances et l'architecture logicielle, j'aime transformer des problématiques complexes en solutions techniques élégantes.
 
-- 🔭 Currently focused on full stack development with **Laravel**, **React**, and **Node.js**
-- 🌱 Exploring **FastAPI** and modern backend architectures
-- 💡 Interested in clean code, performance optimization, and scalable system design
-- 🤝 Open to collaboration on web development projects
-- 📍 Based in Morocco
+- 🔭 **Objectif actuel :** Perfectionnement des architectures monolithiques modernes (**Laravel + Inertia + React/Tailwind**).
+- 🌱 **En veille technologique :** Exploration de **FastAPI** pour des microservices et des architectures backend modernes.
+- 🛠️ **Philosophie :** Clean Code (SOLID), optimisation des requêtes SQL et scalabilité des bases de données.
+- 💼 Disponible pour des collaborations ou des opportunités freelances/salariées.
 
-<br/>
+---
 
-## Tech Stack
+## 🛠️ Stack Technique
 
-<table width="100%">
-<tr>
-<td valign="top" width="50%">
+### 💻 Écosystème Principal & Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white" alt="Inertia.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+</p>
 
-**Frontend**
+### ⚙️ Backend & Autres Technologies
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+</p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="36"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="36"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="36"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="36"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" height="36"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="36"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" height="36"/>
+### 🗄️ Données & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
 
-</td>
-<td valign="top" width="50%">
+---
 
-**Backend**
+## 📈 Domaines d'Expertise
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="36"/>
-<img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" height="36"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="36"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" height="36"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="36"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="36"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height="36"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="ASP.NET" height="36"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress" height="36"/>
+| Pilier | Compétences & Pratiques |
+| :--- | :--- |
+| **Architecture Laravel** | Modèle MVC, APIs RESTful, Intégration **Inertia.js**, Queues/Jobs, Événements/Listeners, Service Providers. |
+| **Expérience Frontend** | Composants React réutilisables, Gestion d'état (Context API / Hooks), Intégration Tailwind CSS avancée. |
+| **Bases de données** | Modélisation relationnelle (MySQL), optimisation des requêtes via Eloquent, indexation, gestion NoSQL (MongoDB). |
+| **Qualité & Workflow** | Analyse statique de code (SonarQube), Versioning Git avancé, Tests d'APIs (Postman), Méthodologies Agiles. |
 
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
+---
 
-**Databases**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="36"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="36"/>
-
-</td>
-<td valign="top" width="50%">
-
-**Tools & DevOps**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="36"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="36"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" alt="SonarQube" height="36"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" height="36"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## Areas of Expertise
-
-| Domain | Skills |
-|---|---|
-| **Backend Development** | PHP (Laravel – MVC, REST APIs), Node.js (Express), ASP.NET (C#), Java enterprise solutions, WordPress (custom themes & plugins) |
-| **Frontend Development** | React.js (Hooks, Context API), JavaScript ES6+, jQuery, HTML5, CSS3, SASS, Tailwind CSS, Bootstrap |
-| **Database & Performance** | MySQL (schema design, query optimization), MongoDB, data indexing & performance tuning |
-| **DevOps & Workflow** | Git & GitHub, Postman, SonarQube, Agile/Scrum methodologies |
-
-<br/>
-
-## GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -121,23 +84,20 @@ I'm constantly learning new technologies and best practices, with a strong focus
 
 </div>
 
-<br/>
+---
 
-## Let's Connect
+## 🤝 Restons en Contact !
 
 <div align="center">
 
-<a href="mailto:mohamedaminenabil249@gmail.com">
-  <img src="https://img.shields.io/badge/Email-003366?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://www.linkedin.com/in/mohamed-amine-nabil-012987386/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/mohamedaminenabil29">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+[![Email](https://img.shields.io/badge/Email-mailto:mohamedaminenabil249@gmail.com?style=for-the-badge&logo=gmail&logoColor=white&color=ea4335)](mailto:mohamedaminenabil249@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-En savoir plus?style=for-the-badge&logo=linkedin&logoColor=white&color=0a66c2)](https://www.linkedin.com/in/mohamed-amine-nabil-012987386/)
+[![GitHub](https://img.shields.io/badge/GitHub-Suivre?style=for-the-badge&logo=github&logoColor=white&color=24292e)](https://github.com/mohamedaminenabil29)
 
 </div>
+
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:003366&height=120&section=footer" width="100%"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:0f172a&height=120&section=footer" width="100%"/>
+</div>
